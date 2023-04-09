@@ -1,0 +1,10 @@
+[0m[[0m[0mdebug[0m] [0m[0mscalafmt: Adding repositories [https://repo1.maven.org/maven2/,https://jitpack.io][0m
+[0m[[0m[0mdebug[0m] [0m[0mscalafmt: parsed config (v3.3.2): /Users/radioactivedevil08/IIITB/sem 8/PE-SM/demoComponent/yasho/.scalafmt.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0mscalafmt: considering all files (no git)[0m
+[0m[[0m[0mdebug[0m] [0m[0mscalafmt: Change report:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Checked: /Users/radioactivedevil08/IIITB/sem 8/PE-SM/demoComponent/yasho/csw-yashodeploy/src/main/scala/csw/yashodeploy/YashoContainerCmdApp.scala, /Users/radioactivedevil08/IIITB/sem 8/PE-SM/demoComponent/yasho/csw-yashodeploy/src/main/scala/csw/yashodeploy/YashoHostConfigApp.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Modified: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	Unmodified: /Users/radioactivedevil08/IIITB/sem 8/PE-SM/demoComponent/yasho/csw-yashodeploy/src/main/scala/csw/yashodeploy/YashoContainerCmdApp.scala, /Users/radioactivedevil08/IIITB/sem 8/PE-SM/demoComponent/yasho/csw-yashodeploy/src/main/scala/csw/yashodeploy/YashoHostConfigApp.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Added: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	Removed: [0m
+[0m[[0m[0mdebug[0m] [0m[0mscalafmt: Unchanged 0 Scala sources[0m

@@ -1,0 +1,13 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/radioactivedevil08/IIITB/sem 8/PE-SM/demoComponent/yasho/csw-yashohcd/src/main/scala/csw/yashohcd/YashohcdHandlers.scala:35:15: private var XUpperLim in class YashohcdHandlers is never updated: consider using immutable val[0m
+[0m[[0m[33mwarn[0m] [0m[0m  private var XUpperLim: Long = 40[0m
+[0m[[0m[33mwarn[0m] [0m[0m              ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/radioactivedevil08/IIITB/sem 8/PE-SM/demoComponent/yasho/csw-yashohcd/src/main/scala/csw/yashohcd/YashohcdHandlers.scala:36:15: private var XLowerLim in class YashohcdHandlers is never updated: consider using immutable val[0m
+[0m[[0m[33mwarn[0m] [0m[0m  private var XLowerLim: Long = 0[0m
+[0m[[0m[33mwarn[0m] [0m[0m              ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/radioactivedevil08/IIITB/sem 8/PE-SM/demoComponent/yasho/csw-yashohcd/src/main/scala/csw/yashohcd/YashohcdHandlers.scala:37:15: private var YUpperLim in class YashohcdHandlers is never updated: consider using immutable val[0m
+[0m[[0m[33mwarn[0m] [0m[0m  private var YUpperLim: Long = 40[0m
+[0m[[0m[33mwarn[0m] [0m[0m              ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/radioactivedevil08/IIITB/sem 8/PE-SM/demoComponent/yasho/csw-yashohcd/src/main/scala/csw/yashohcd/YashohcdHandlers.scala:38:15: private var YLowerLim in class YashohcdHandlers is never updated: consider using immutable val[0m
+[0m[[0m[33mwarn[0m] [0m[0m  private var YLowerLim: Long = 0[0m
+[0m[[0m[33mwarn[0m] [0m[0m              ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mfour warnings found[0m

@@ -1,0 +1,25 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/radioactivedevil08/IIITB/sem 8/PE-SM/demoComponent/yasho/csw-yashodeploy/src/main/scala/csw/yashodeploy/YashoContainerCmdApp.scala:3:12: object framework is not a member of package csw[0m
+[0m[[0m[31merror[0m] [0m[0mimport csw.framework.deploy.containercmd.ContainerCmd[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/radioactivedevil08/IIITB/sem 8/PE-SM/demoComponent/yasho/csw-yashodeploy/src/main/scala/csw/yashodeploy/YashoContainerCmdApp.scala:4:12: object prefix is not a member of package csw[0m
+[0m[[0m[31merror[0m] [0m[0mimport csw.prefix.models.Subsystem[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/radioactivedevil08/IIITB/sem 8/PE-SM/demoComponent/yasho/csw-yashodeploy/src/main/scala/csw/yashodeploy/YashoContainerCmdApp.scala:8:3: not found: value ContainerCmd[0m
+[0m[[0m[31merror[0m] [0m[0m  ContainerCmd.start("yasho_container_cmd_app", Subsystem.withNameInsensitive("CSW"), args)[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/radioactivedevil08/IIITB/sem 8/PE-SM/demoComponent/yasho/csw-yashodeploy/src/main/scala/csw/yashodeploy/YashoContainerCmdApp.scala:8:49: not found: value Subsystem[0m
+[0m[[0m[31merror[0m] [0m[0m  ContainerCmd.start("yasho_container_cmd_app", Subsystem.withNameInsensitive("CSW"), args)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/radioactivedevil08/IIITB/sem 8/PE-SM/demoComponent/yasho/csw-yashodeploy/src/main/scala/csw/yashodeploy/YashoHostConfigApp.scala:3:12: object framework is not a member of package csw[0m
+[0m[[0m[31merror[0m] [0m[0mimport csw.framework.deploy.hostconfig.HostConfig[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/radioactivedevil08/IIITB/sem 8/PE-SM/demoComponent/yasho/csw-yashodeploy/src/main/scala/csw/yashodeploy/YashoHostConfigApp.scala:4:12: object prefix is not a member of package csw[0m
+[0m[[0m[31merror[0m] [0m[0mimport csw.prefix.models.Subsystem[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/radioactivedevil08/IIITB/sem 8/PE-SM/demoComponent/yasho/csw-yashodeploy/src/main/scala/csw/yashodeploy/YashoHostConfigApp.scala:8:3: not found: value HostConfig[0m
+[0m[[0m[31merror[0m] [0m[0m  HostConfig.start("yasho_host_config_app", Subsystem.withNameInsensitive("CSW"), args)[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/radioactivedevil08/IIITB/sem 8/PE-SM/demoComponent/yasho/csw-yashodeploy/src/main/scala/csw/yashodeploy/YashoHostConfigApp.scala:8:45: not found: value Subsystem[0m
+[0m[[0m[31merror[0m] [0m[0m  HostConfig.start("yasho_host_config_app", Subsystem.withNameInsensitive("CSW"), args)[0m
+[0m[[0m[31merror[0m] [0m[0m                                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m8 errors found[0m

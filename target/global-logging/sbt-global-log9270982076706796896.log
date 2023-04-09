@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(&quot;csw-yashodeploy/runMain csw.yashodeploy.YashoContainerCmdApp --local ./src/main/resources/JYashoContainer.conf&quot;, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(&quot, None, None)[0m
+[0m[[0m[31merror[0m] [0m[0mExpected symbol[0m
+[0m[[0m[31merror[0m] [0m[0mNot a valid command: &[0m
+[0m[[0m[31merror[0m] [0m[0m&quot[0m
+[0m[[0m[31merror[0m] [0m[0m ^[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m
